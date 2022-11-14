@@ -1,7 +1,5 @@
 ### Weeb man in da house
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthiiass)](https://github.com/Matthiiass/github-readme-stats)
-
 <!--
 **Matthiiass/Matthiiass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
